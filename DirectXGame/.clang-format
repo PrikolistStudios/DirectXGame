@@ -1,0 +1,5 @@
+# Файл CLANG-FORMAT, созданный Visual Studio
+
+BasedOnStyle: Google
+
+ColumnLimit: 150
